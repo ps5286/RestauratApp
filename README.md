@@ -1,8 +1,8 @@
 UDACITY project
-# Neighborhood Map - Udacity Project
+# Favorite Restuarants Map - Udacity Project
 
 
-The Neighborhood Map project will test Udacity student's ability to create a single page web application that allows users to search and view Stan's Favorite Restaurants in the U.S.A.
+The Favorite restuarants project will test Udacity student's ability to create a single page web application that allows users to search and view Stan's Favorite Restaurants in the U.S.A.
 
 
 ## How To Load
